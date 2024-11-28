@@ -1,0 +1,4 @@
+[core]
+    remote = myserver
+['remote "myserver"']
+    url = ssh://root@8.140.238.118/root/my_dvc_remote
